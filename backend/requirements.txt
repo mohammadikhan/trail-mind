@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-openai
+langchain-postgres
+langchain-community
+psycopg2-binary
+tavily-python
+ragas
+python-dotenv
+mangum
